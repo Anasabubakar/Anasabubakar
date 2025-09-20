@@ -55,14 +55,9 @@ Designed a fully modular stand with adjustable dimensions and integrated cable/h
 
 - 📧 anasabubakar7000@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anasmasama)  
-- 🌍 [Portfolio Site](#coming-soon)  
+- 🌍 [Portfolio Site](https://studio--studio-3251830418-1db49.us-central1.hosted.app/)  
 - 📂 [Certificates](https://drive.google.com/drive/folders/1VkuSV3OcgJbWPcR1uB_IA3E2D6ER0ZX7?usp=drive_link)
 
 ---
 
 > “Build like your name will be remembered.”  
-
-<!---
-Anasabubakar/Anasabubakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
