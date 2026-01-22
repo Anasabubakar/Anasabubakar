@@ -54,3 +54,4 @@ More context and full documentation live at **anasmasama.vercel.app**
 * LinkedIn: https://www.linkedin.com/in/anasmasama
 * GitHub: you’re already here
 * x: https://x.com/Anas_Abubakar70
+* WhatsApp/Phone: +234 706 429 4297
