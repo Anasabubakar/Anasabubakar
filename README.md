@@ -1,63 +1,56 @@
-# 👋🏽 Hi, I'm Anas Abubakar
+### 👋 Hi, I’m Anas
 
-**Front-End Developer | 3D Design Specialist | Builder of Functional Aesthetics**
+I’m a **Software Developer** focused on building scalable, user-centered web products with modern JavaScript stacks.
 
-I'm a web developer based in Lagos, Nigeria, with a passion for building sleek front-end interfaces and practical 3D prototypes. Whether it's coding clean, responsive web apps or printing physical components with precise CAD design, I love working at the intersection of software and real-world impact.
+I primarily build with **Next.js, React, and TypeScript**, designing systems that prioritize performance, clarity, and long-term maintainability. I’m especially interested in **AI-powered product features** and how software can solve practical, real-world problems in emerging markets.
 
----
-
-## 💻 Tech Stack
-
-**Frontend:**  
-HTML5 · CSS3 · JavaScript (ES6+) · TailwindCSS · Git · VSCode
-
-**Backend & Databases:**  
-Node.js (basic) · Express · SQL (basic)
-
-**3D Design & Prototyping:**  
-Solid Edge · Parametric & Assembly Modeling · FDM Printing · Realistic Rendering
-
-**Other Tools:**  
-GitHub · Figma · Microsoft 365 · Agile/Scrum
+I’m also the **Founder of TeenovateX Labs**, where we’re building platforms and communities that help young Africans move from learning to shipping real products.
 
 ---
 
-## 🚀 What I'm Working On
-- Improving backend dev skills (Node, Express, API integration)
-- Designing functional 3D models (modular and printable)
-- Building a professional portfolio with case studies & GitHub repos
-- Helping new devs learn clean, secure coding practices
+### 🛠 What I Work With
+
+* **Frontend**: Next.js, React, TypeScript, JavaScript, Tailwind CSS
+* **Backend & Tools**: Node.js, SQL, Firebase, Git
+* **Product & Design**: Figma, design systems, product architecture
+* **Exploration**: AI integration, automation, 3D modeling (Solid Edge)
+
+I care deeply about **clean architecture, readability, and maintainability** over chasing trends or tools.
 
 ---
 
-## 📌 Featured Projects
+### 🚀 What I’m Focused On
 
-🛒 **[E-Commerce UI Clone](https://github.com/AnasAbubakar/ecom-ui-clone)**  
-Built a responsive product page with image gallery, dynamic cart logic, and TailwindCSS styling.
-
-🏫 **Role-Based School Portal**  
-Developed a login-protected dashboard for students and admins using HTML/CSS/JS and SQL.
-
-🖨️ **3D Printer Custom Stand**  
-Designed a fully modular stand with adjustable dimensions and integrated cable/hook features.
+* Building production-ready web products
+* Integrating AI features into practical applications
+* Growing TeenovateX Labs into a serious innovation hub
+* Shipping consistently and improving systems over time
 
 ---
 
-## 🧠 Core Values
+### 📌 Selected Work
 
-- **Build it real.** I value functionality and usability — whether digital or physical.
-- **Write it clean.** Code should be readable, maintainable, and secure by default.
-- **Teach while growing.** I believe in sharing what I learn and learning by helping others.
+Here you’ll find:
 
----
+* Frontend and full-stack projects
+* Product-oriented experiments, not tutorials
+* Code written to be intentional, scalable, and easy to reason about
 
-## 📫 Let’s Connect
-
-- 📧 anasabubakar7000@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anasmasama)  
-- 🌍 [Portfolio Site](https://studio--studio-3251830418-1db49.us-central1.hosted.app/)  
-- 📂 [Certificates](https://drive.google.com/drive/folders/1VkuSV3OcgJbWPcR1uB_IA3E2D6ER0ZX7?usp=drive_link)
+More context and full documentation live at **anasmasama.vercel.app**
 
 ---
 
-> “Build like your name will be remembered.”  
+### 🤝 Open To
+
+* Collaborating on meaningful products
+* Frontend or product-focused roles
+* Thoughtful technical conversations beyond surface-level hype
+
+---
+
+### 📫 Reach Me
+
+* Portfolio: anasmasama.vercel.app
+* LinkedIn: https://www.linkedin.com/in/anasmasama
+* GitHub: you’re already here
+* x: https://x.com/Anas_Abubakar70
