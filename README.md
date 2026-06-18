@@ -36,7 +36,7 @@ Here you’ll find:
 * Product-oriented experiments, not tutorials
 * Code written to be intentional, scalable, and easy to reason about
 
-More context and full documentation live at **anasmasama.vercel.app**
+More context and full documentation live at **anasmasama.dev**
 
 ---
 
@@ -50,7 +50,7 @@ More context and full documentation live at **anasmasama.vercel.app**
 
 ### 📫 Reach Me
 
-* Portfolio: anasmasama.vercel.app
+* Portfolio: anasmasama.dev
 * LinkedIn: https://www.linkedin.com/in/anasmasama
 * GitHub: you’re already here
 * x: https://x.com/Anas_Abubakar70
