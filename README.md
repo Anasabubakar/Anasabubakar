@@ -1,57 +1,41 @@
-### 👋 Hi, I’m Anas
+# Hi, I’m Anas Masama 👋
 
-I’m a **Software Developer** focused on building scalable, user-centered web products with modern JavaScript stacks.
+I’m a **software engineer** building reliable systems and agentic AI products.
 
-I primarily build with **Next.js, React, and TypeScript**, designing systems that prioritize performance, clarity, and long-term maintainability. I’m especially interested in **AI-powered product features** and how software can solve practical, real-world problems in emerging markets.
+My work sits at the intersection of **systems design, applied AI/ML, and product engineering**. I care about clear architecture, thoughtful trade-offs, and software that holds up beyond the demo.
 
-I’m also the **Founder of TeenovateX Labs**, where we’re building platforms and communities that help young Africans move from learning to shipping real products.
+## What I build
 
----
+- **Agentic and multi-agent systems** with useful guardrails and human approval
+- **Full-stack, mobile, and desktop products** designed for real-world use
+- **Platforms and APIs** that are maintainable, observable, and ready to scale
+- **Technical education** about AI agents, systems design, and shipping software
 
-### 🛠 What I Work With
+## Tools I work with
 
-* **Frontend**: Next.js, React, TypeScript, JavaScript, Tailwind CSS
-* **Backend & Tools**: Node.js, SQL, Firebase, Git
-* **Product & Design**: Figma, design systems, product architecture
-* **Exploration**: AI integration, automation, 3D modeling (Solid Edge)
+- **Languages:** TypeScript, Python, Go
+- **Frontend & mobile:** React, Next.js, React Native
+- **Backend:** Node.js, FastAPI, REST APIs, WebSockets
+- **Data & infrastructure:** PostgreSQL, Redis, Docker
 
-I care deeply about **clean architecture, readability, and maintainability** over chasing trends or tools.
+## Current and selected work
 
----
+- **NassAI** — a mobile-first professional-matching product
+- **Timeless** — a multi-tenant sponsorship intelligence platform powered by specialized AI agents
+- **Butler** — an approval-gated digital chief of staff
+- **Agent Swarm** — a CLI for parallel agent workflows
+- **Glance** — an open-source, screen-aware desktop AI companion
+- **TeenovateX Labs** — helping young Africans turn ideas into working products
 
-### 🚀 What I’m Focused On
+## Writing and teaching
 
-* Building production-ready web products
-* Integrating AI features into practical applications
-* Growing TeenovateX Labs into a serious innovation hub
-* Shipping consistently and improving systems over time
+I’m starting to publish practical technical content for builders: how agentic systems work, how to make better architecture decisions, and what it takes to ship useful software.
 
----
+## Let’s connect
 
-### 📌 Selected Work
+- [Portfolio](https://www.anasmasama.dev)
+- [LinkedIn](https://www.linkedin.com/in/anasmasama)
+- [X](https://x.com/Anas_Abubakar70)
+- [DEV Community](https://dev.to/anasmasama)
 
-Here you’ll find:
-
-* Frontend and full-stack projects
-* Product-oriented experiments, not tutorials
-* Code written to be intentional, scalable, and easy to reason about
-
-More context and full documentation live at **anasmasama.dev**
-
----
-
-### 🤝 Open To
-
-* Collaborating on meaningful products
-* Frontend or product-focused roles
-* Thoughtful technical conversations beyond surface-level hype
-
----
-
-### 📫 Reach Me
-
-* Portfolio: anasmasama.dev
-* LinkedIn: https://www.linkedin.com/in/anasmasama
-* GitHub: you’re already here
-* x: https://x.com/Anas_Abubakar70
-* WhatsApp/Phone: +234 706 429 4297
+Open to software engineering, AI engineering, platform engineering, and product-focused opportunities.
