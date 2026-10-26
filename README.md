@@ -49,9 +49,9 @@ I also run **[TeenovateX Labs](https://teenovatex.org)**, a nonprofit innovation
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
 | **[Butler 2.0](https://github.com/Anasabubakar/Butler-2.0)** · [live](https://butler.anasmasama.dev) | Your own butler on every screen. Save anything from any app, Butler organizes it and lives as a small pet on your phone and laptop that talk to each other. Self hosted. | TypeScript, Kotlin, Jetpack Compose, Vite, Docker |
-| **[Morrow](https://github.com/Anasabubakar/morrow)** | Device to device transaction infrastructure: optical protocol, BMONI settlement, offline signed Morrow Reserve payments. | React Native, Expo, TypeScript |
+| **[Morrow](https://github.com/Anasabubakar/morrow)** · [demo video](https://drive.google.com/file/d/1HALnDRqETO4zCk8n9y049QciBVIlflkk/view?usp=drive_link) | Device to device transaction infrastructure: optical protocol, BMONI settlement, offline signed Morrow Reserve payments. | React Native, Expo, TypeScript |
 | **[Timeless](https://github.com/Anasabubakar/Timeless)** · [live](https://timeless-udc.vercel.app) | Multi tenant sponsorship intelligence platform powered by specialized AI agents. | Go, Fiber, GORM, pgx, Redis, WebSockets, Next.js |
-| **[Swarm](https://github.com/agent-swarm0/Swarm)** | Multi agent orchestration platform with 245+ agents, built with a team. Active. | TypeScript, agents |
+| **[Swarm](https://github.com/agent-swarm0/Swarm)** · [npm](https://www.npmjs.com/package/@anas.abubakar/swarm) | Multi agent orchestration CLI. One command, 245+ agents. Install with `npm install -g @anas.abubakar/swarm`. | TypeScript, Node.js, npm |
 
 ---
 
@@ -237,9 +237,13 @@ Seven tools, each shipped as an engine plus an app, with documentation on [GitBo
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Anasabubakar/Anasabubakar/output/contribution-graph.svg" alt="contribution graph" />
+
+<img src="https://raw.githubusercontent.com/Anasabubakar/Anasabubakar/output/activity-overview.svg" alt="activity overview" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anasabubakar/Anasabubakar/output/github-snake-dark.svg" />

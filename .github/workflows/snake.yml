@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Graphs
 
 on:
   schedule:
@@ -15,6 +15,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Build contribution graph and activity overview
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/profile_graphs.py dist
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
