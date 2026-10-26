@@ -56,14 +56,6 @@ Pulled from my actual commit history, not self reported. Window: July 26 to Octo
 | JavaScript and CSS | 3% |
 | Kotlin, Rust, Shell, Prisma | 2% |
 
-------- | :--------------------- |
-| TypeScript (TS and TSX) | ![](https://geps.dev/progress/76?dangerouslySetInnerHTML=%7B%22__html%22:%22%22%7D) |
-| Go | ![](https://geps.dev/progress/8) |
-| SQL | ![](https://geps.dev/progress/6) |
-| Python | ![](https://geps.dev/progress/5) |
-| JavaScript and CSS | ![](https://geps.dev/progress/3) |
-| Kotlin, Rust, Shell, Prisma | ![](https://geps.dev/progress/2) |
-
 ---
 
 ## Tech Stack
