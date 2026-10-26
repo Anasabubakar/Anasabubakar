@@ -44,12 +44,19 @@ Pulled from my actual commit history, not self reported. Window: July 26 to Octo
 | | |
 | :-: | :-: |
 | **5,600+** commits | **34** repositories |
-| **9 orgs and 3 collaborators** worked with | **6** languages in daily use |
 
 </div>
 
 | Language | Share of files touched |
-| :------- | :--------------------- |
+| :------- | ---------------------: |
+| TypeScript (TS and TSX) | 76% |
+| Go | 8% |
+| SQL | 6% |
+| Python | 5% |
+| JavaScript and CSS | 3% |
+| Kotlin, Rust, Shell, Prisma | 2% |
+
+------- | :--------------------- |
 | TypeScript (TS and TSX) | ![](https://geps.dev/progress/76?dangerouslySetInnerHTML=%7B%22__html%22:%22%22%7D) |
 | Go | ![](https://geps.dev/progress/8) |
 | SQL | ![](https://geps.dev/progress/6) |
@@ -213,24 +220,18 @@ Seven tools, each shipped as an engine plus an app, with documentation on [GitBo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anasabubakar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&include_all_commits=true&count_private=true" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anasabubakar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&count_private=true" height="180" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anasabubakar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&langs_count=8" height="180" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Anasabubakar&theme=dark&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anasabubakar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anasabubakar&theme=react-dark&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anasabubakar/Anasabubakar/output/github-snake-dark.svg" />
