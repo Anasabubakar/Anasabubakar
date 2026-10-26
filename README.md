@@ -152,22 +152,35 @@ Everything below shows up in code I wrote or changed in the last 90 days. Nothin
 
 ## What I Build
 
-### Products
+### Payments
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| **[Morrow](https://github.com/Anasabubakar/morrow)** | Device to device transaction infrastructure: optical protocol, BMONI settlement, offline signed Morrow Reserve payments. | React Native, Expo, TypeScript |
+| **[Settle](https://github.com/Anasabubakar/settle)** | AI assisted, provider direct bill support with a Stellar settlement foundation. | Expo, React Native, Stellar SDK |
+| **Settla** | Merchant cash advance engine for informal Nigerian SMEs, built for the Nomba Hackathon. | Fintech, SME lending |
+
+### AI and Agents
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
 | **[Butler 2.0](https://github.com/Anasabubakar/Butler-2.0)** · [live](https://butler.anasmasama.dev) | Your own butler on every screen. Save anything from any app, Butler organizes it and lives as a small pet on your phone and laptop that talk to each other. Self hosted. | TypeScript, Kotlin, Jetpack Compose, Vite, Docker |
-| **[Timeless](https://github.com/Anasabubakar/Timeless)** · [live](https://timeless-udc.vercel.app) | Multi tenant sponsorship intelligence platform powered by specialized AI agents. | Go, Fiber, GORM, pgx, Redis, WebSockets, Next.js |
-| **[Glance](https://github.com/Anasabubakar/glance)** · [live](https://tryglance.vercel.app) | Open source AI desktop companion. Sees your screen, points at things, and acts on them. Windows and Linux. | Python, PyQt, Anthropic and OpenAI SDKs, Next.js |
-| **[Slottr](https://github.com/Anasabubakar/slottr)** · [live](https://slottr-amber.vercel.app) | Independent open source scheduling platform, originally forked from Cal.com. | Next.js, Prisma, NextAuth, Stripe, Playwright, Turborepo |
-| **[Morrow](https://github.com/Anasabubakar/morrow)** | Device to device transaction infrastructure: optical protocol, BMONI settlement, offline signed Morrow Reserve payments. | React Native, Expo, TypeScript |
-| **[Settle](https://github.com/Anasabubakar/settle)** | AI assisted, provider direct bill support with a Stellar settlement foundation. | Expo, React Native, Stellar SDK |
-| **NassAI** (private) | Mobile first professional matching product. | NestJS, Expo, Next.js, BullMQ, Anthropic SDK, Turborepo |
-| **Butler** (private) | An AI chief of staff with approval gates. | Go, chi, gRPC, pgx, Next.js |
-| **[DIAL](https://github.com/Anasabubakar/DIAL)** | Full stack TypeScript app. | Fastify, Drizzle, Supabase, Gemini and OpenAI, Playwright, Next.js |
+| **[Glance](https://github.com/Anasabubakar/glance)** · [live](https://tryglance.vercel.app) | Open source AI desktop companion. Sees your screen, points at things, and acts on them. Windows and Linux. | Python, PyQt, Anthropic and OpenAI SDKs |
+| **[Swarm](https://github.com/agent-swarm0/Swarm)** | Multi agent orchestration platform with 245+ agents, built with a team. | TypeScript, agents |
+| **[Agent Swarm](https://github.com/Anasabubakar/agent-swarm)** | CLI for parallel agent workflows. | CLI, agents |
+| **NassAI** (private) | Mobile first professional matching product. | NestJS, Expo, Next.js, BullMQ, Anthropic SDK |
+| **Butler** (private) | AI chief of staff with approval gates. | Go, chi, gRPC, pgx, Next.js |
 | **[The Nomad Bot](https://github.com/Anasabubakar/The-Nomad-Bot)** | Telegram bot for The Nomad Network community, engagement tracking and announcements. | Python, aiogram, OpenAI SDK |
-| **[phonelink](https://github.com/Anasabubakar/phonelink)** | Share a Linux laptop's internet with a phone. Wi-Fi hotspot that coexists with the laptop's own Wi-Fi, plus an app free IKEv2 relay via a VPS. | Shell |
+
+### Web Products
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| **[Timeless](https://github.com/Anasabubakar/Timeless)** · [live](https://timeless-udc.vercel.app) | Multi tenant sponsorship intelligence platform powered by specialized AI agents. | Go, Fiber, GORM, pgx, Redis, WebSockets, Next.js |
+| **[Slottr](https://github.com/Anasabubakar/slottr)** · [live](https://slottr-amber.vercel.app) | Independent open source scheduling platform, originally forked from Cal.com. | Next.js, Prisma, NextAuth, Stripe, Playwright, Turborepo |
+| **[DeraEdge](https://github.com/muffti123/Deraedge)** | Platform for a proprietary trading firm: public site, paid trading academy with student portal, internal command center, all on one Go API. | Go, chi, pgx, Next.js, Stripe, Three.js |
 | **[TeenovateX Labs](https://github.com/Teenovatex-Labs)** | Platform for the nonprofit: [frontend](https://github.com/Teenovatex-Labs/frontend) and [backend](https://github.com/Teenovatex-Labs/backend). | Next.js, Express, Prisma, Sentry |
+| **[DIAL](https://github.com/Anasabubakar/DIAL)** | Full stack TypeScript app with AI. | Fastify, Drizzle, Supabase, Gemini, Next.js |
 
 ### Stellar Developer Tools
 
@@ -183,14 +196,16 @@ Seven tools, each shipped as an engine plus an app, with documentation on [GitBo
 | **ChargeGuard** | Does my deployment break the assumptions of the Stellar MPP charge flow? | [runner](https://github.com/Charge-Guard/chargeguard-runner) · [workbench](https://github.com/Charge-Guard/chargeguard-workbench) |
 | **RailLab** | Can I make a SEP-24 anchor fail in the lab before the wallet fails for a user? | [engine](https://github.com/Rail-L-b/raillab-engine) · [workbench](https://github.com/Rail-L-b/raillab-workbench) |
 
-### Collaborations
+### Research and Tools
 
-| Project | Role |
-| ------- | ---- |
-| **[DeraEdge](https://github.com/muffti123/Deraedge)** | Built the platform for a proprietary trading firm: public site, paid trading academy with student portal, and an internal command center, all on one Go API. Go, chi, pgx, Next.js, Stripe. |
+| Project | What it is |
+| ------- | ---------- |
 | **[KneeScope](https://github.com/OlayiwolaSherrifSalawu/KneeScope)** | Knee MRI research review prototype with abnormality detection and model attention inspection. Research use only, not for diagnosis. Python, React, Vite. |
+| **[phonelink](https://github.com/Anasabubakar/phonelink)** | Share a Linux laptop's internet with a phone: Wi-Fi hotspot plus an app free IKEv2 relay via a VPS. Shell. |
 
-Earlier work: [Agent Swarm](https://github.com/Anasabubakar/agent-swarm), a CLI for parallel agent workflows, and [Swarm](https://github.com/agent-swarm0/Swarm), a multi agent orchestration platform.
+### Earlier Work
+
+[HaloPay](https://github.com/HaloPaye), a digital payments and aid platform for unbanked merchants (POS app, API, yield contracts, mesh relayer).
 
 ---
 
