@@ -35,6 +35,26 @@ I also run **[TeenovateX Labs](https://teenovatex.org)**, a nonprofit innovation
 
 ---
 
+## Featured
+
+<div align="center">
+
+<a href="https://github.com/Anasabubakar/Butler-2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anasabubakar&repo=Butler-2.0&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" alt="Butler 2.0" /></a>
+<a href="https://github.com/Anasabubakar/morrow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anasabubakar&repo=morrow&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" alt="Morrow" /></a>
+<a href="https://github.com/Anasabubakar/Timeless"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anasabubakar&repo=Timeless&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" alt="Timeless" /></a>
+<a href="https://github.com/agent-swarm0/Swarm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agent-swarm0&repo=Swarm&theme=dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6" alt="Swarm" /></a>
+
+</div>
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| **[Butler 2.0](https://github.com/Anasabubakar/Butler-2.0)** · [live](https://butler.anasmasama.dev) | Your own butler on every screen. Save anything from any app, Butler organizes it and lives as a small pet on your phone and laptop that talk to each other. Self hosted. | TypeScript, Kotlin, Jetpack Compose, Vite, Docker |
+| **[Morrow](https://github.com/Anasabubakar/morrow)** | Device to device transaction infrastructure: optical protocol, BMONI settlement, offline signed Morrow Reserve payments. | React Native, Expo, TypeScript |
+| **[Timeless](https://github.com/Anasabubakar/Timeless)** · [live](https://timeless-udc.vercel.app) | Multi tenant sponsorship intelligence platform powered by specialized AI agents. | Go, Fiber, GORM, pgx, Redis, WebSockets, Next.js |
+| **[Swarm](https://github.com/agent-swarm0/Swarm)** | Multi agent orchestration platform with 245+ agents, built with a team. Active. | TypeScript, agents |
+
+---
+
 ## Last 90 Days
 
 Pulled from my actual commit history, not self reported. Window: July 26 to October 26, 2026.
@@ -151,31 +171,26 @@ Everything below shows up in code I wrote or changed in the last 90 days. Nothin
 
 ## What I Build
 
-### Payments
+### More Payments
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| **[Morrow](https://github.com/Anasabubakar/morrow)** | Device to device transaction infrastructure: optical protocol, BMONI settlement, offline signed Morrow Reserve payments. | React Native, Expo, TypeScript |
 | **[Settle](https://github.com/Anasabubakar/settle)** | AI assisted, provider direct bill support with a Stellar settlement foundation. | Expo, React Native, Stellar SDK |
-| **Settla** | Merchant cash advance engine for informal Nigerian SMEs, built for the Nomba Hackathon. | Fintech, SME lending |
 
-### AI and Agents
+### More AI and Agents
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| **[Butler 2.0](https://github.com/Anasabubakar/Butler-2.0)** · [live](https://butler.anasmasama.dev) | Your own butler on every screen. Save anything from any app, Butler organizes it and lives as a small pet on your phone and laptop that talk to each other. Self hosted. | TypeScript, Kotlin, Jetpack Compose, Vite, Docker |
 | **[Glance](https://github.com/Anasabubakar/glance)** · [live](https://tryglance.vercel.app) | Open source AI desktop companion. Sees your screen, points at things, and acts on them. Windows and Linux. | Python, PyQt, Anthropic and OpenAI SDKs |
-| **[Swarm](https://github.com/agent-swarm0/Swarm)** | Multi agent orchestration platform with 245+ agents, built with a team. | TypeScript, agents |
 | **[Agent Swarm](https://github.com/Anasabubakar/agent-swarm)** | CLI for parallel agent workflows. | CLI, agents |
 | **NassAI** (private) | Mobile first professional matching product. | NestJS, Expo, Next.js, BullMQ, Anthropic SDK |
 | **Butler** (private) | AI chief of staff with approval gates. | Go, chi, gRPC, pgx, Next.js |
 | **[The Nomad Bot](https://github.com/Anasabubakar/The-Nomad-Bot)** | Telegram bot for The Nomad Network community, engagement tracking and announcements. | Python, aiogram, OpenAI SDK |
 
-### Web Products
+### More Web Products
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| **[Timeless](https://github.com/Anasabubakar/Timeless)** · [live](https://timeless-udc.vercel.app) | Multi tenant sponsorship intelligence platform powered by specialized AI agents. | Go, Fiber, GORM, pgx, Redis, WebSockets, Next.js |
 | **[Slottr](https://github.com/Anasabubakar/slottr)** · [live](https://slottr-amber.vercel.app) | Independent open source scheduling platform, originally forked from Cal.com. | Next.js, Prisma, NextAuth, Stripe, Playwright, Turborepo |
 | **[DeraEdge](https://github.com/muffti123/Deraedge)** | Platform for a proprietary trading firm: public site, paid trading academy with student portal, internal command center, all on one Go API. | Go, chi, pgx, Next.js, Stripe, Three.js |
 | **[TeenovateX Labs](https://github.com/Teenovatex-Labs)** | Platform for the nonprofit: [frontend](https://github.com/Teenovatex-Labs/frontend) and [backend](https://github.com/Teenovatex-Labs/backend). | Next.js, Express, Prisma, Sentry |
@@ -204,7 +219,8 @@ Seven tools, each shipped as an engine plus an app, with documentation on [GitBo
 
 ### Earlier Work
 
-[HaloPay](https://github.com/HaloPaye), a digital payments and aid platform for unbanked merchants (POS app, API, yield contracts, mesh relayer).
+- **Settla**, a merchant cash advance engine for informal Nigerian SMEs, built for the Nomba Hackathon.
+- [HaloPay](https://github.com/HaloPaye), a digital payments and aid platform for unbanked merchants (POS app, API, yield contracts, mesh relayer).
 
 ---
 
