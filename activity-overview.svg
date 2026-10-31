@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" font-family="Segoe UI,Arial,sans-serif">
+<rect width="100%" height="100%" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="16" y="26" fill="#e6edf3" font-size="13" font-weight="600">Activity overview</text>
+<line x1="132" y1="115" x2="288" y2="115" stroke="#238636" stroke-width="1.5"/>
+<line x1="210" y1="37" x2="210" y2="193" stroke="#238636" stroke-width="1.5"/>
+<polygon points="132.0,115.0 215.3,115.0 210.0,116.9 210.0,115.0" fill="#26a641" fill-opacity="0.35" stroke="#39d353" stroke-width="1.5"/>
+<circle cx="132.0" cy="115.0" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+<circle cx="215.3" cy="115.0" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+<circle cx="210.0" cy="116.9" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+<circle cx="210.0" cy="115.0" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+<text x="210" y="19" text-anchor="middle" fill="#e6edf3" font-size="11">0%</text>
+<text x="210" y="32" text-anchor="middle" fill="#7d8590" font-size="11">Code review</text>
+<text x="210" y="207" text-anchor="middle" fill="#e6edf3" font-size="11">2%</text>
+<text x="210" y="220" text-anchor="middle" fill="#7d8590" font-size="11">Pull requests</text>
+<text x="120" y="119" text-anchor="end" fill="#e6edf3" font-size="11">92%</text>
+<text x="120" y="132" text-anchor="end" fill="#7d8590" font-size="11">Commits</text>
+<text x="300" y="119" text-anchor="start" fill="#e6edf3" font-size="11">6%</text>
+<text x="300" y="132" text-anchor="start" fill="#7d8590" font-size="11">Issues</text>
+</svg>
